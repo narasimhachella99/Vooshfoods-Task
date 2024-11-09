@@ -1,3 +1,3 @@
 # Vooshfoods-Task
 
-### MERN STACK
+### Used Technologies :  MERN STACK
